@@ -11,3 +11,24 @@ This research will help the Department of Transportation and Department of Publi
 This study can also serve as reference for future researchers. The findings of this study can be utilized and could enable the researchers to further develop and contribute more studies and analysis to this research. 
 ## Methods
 This study will focus on data about a risk that causes accidents. By creating data about the factors that cause accidents, drivers are aware. The purpose of this study is to look into the elements that influence the criticality of road accidents as reported by descriptive indices like multiple lapses were used to examine the percentage In road traffic accidents, categorical characteristics such as gender and vehicle type have been linked.
+## References
+
+Kim, C. (2021) Car Accidents in The Philippines: Causes, Facts & Latest Statistics 
+https://philkotse.com/safe-driving/road-accidents-in-the-philippines-causes-facts-latest-statistics-5455
+Tamayo, A. M. (2009) Occurrence of Traffic Accidents in the Philippines: An Application of Poisson Regression Analysis 
+https://ssrn.com/abstract=1438478 or http://dx.doi.org/10.2139/ssrn.1438478
+Ameratunga S., Hijar M., Norton R. Road-traffic injuries: Confronting disparities to address a global-health problem. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736?fbclid=IwAR3sZK9-C4feck4zo0dFwLNjrq7foIz8k2kB9EDkd98vW0w_c7Rg7S_0tV4
+Department of Health (2019) CALABARZON RECORDS HIGHEST TRANSPORT VEHICULAR CRASH 
+https://ro4a.doh.gov.ph/media-releases/140-featured-article/629-calabarzon-records-highest-transport-vehicular-crash
+World Health Rankings (2018) PHILIPPINES: ROAD TRAFFIC ACCIDENTS 
+https://www.worldlifeexpectancy.com/philippines-road-traffic-accidents#:~:text=Philippines%3A%20Road%20Traffic%20Accidents&text=According%20to%20the%20latest%20WHO,Philippines%20%23118%20in%20the%20world
+Road Safety Facility (2021) Philippines's Road Safety Country Profile 
+https://www.roadsafetyfacility.org/country/philippines
+Lu, S. F., Lu, J. L (2021) Analysis of Human Error as a Factor in Road Crash in Metro Manila 
+https://actamedicaphilippina.upm.edu.ph/index.php/acta/article/view/3325?fbclid=IwAR3Wt-fN7jbFLh4a6Op11L7zHj4hVVsTQZbyg67sXyspKDtXp-agsyysKw8
+Gopalakrishnan, S. (2012) A Public Health Perspective of Road Traffic Accidents
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3893966/?fbclid=IwAR3VUZZjda54tI5rnBDcZ-IRPP2pplctt5NC0vR70etgA8seF8J88pbNFqs
+BNN News Team (2019) Calabarzon LGUs formulate local action plan on road safety
+https://balikas.net/calabarzon-lgus-formulate-local-action-plan-on-road-safety/?fbclid=IwAR3yJDcpnS-9PH4iHNs2D7z2w1CFQ3OPAfZPcKEfhO0rJwKCkVV2e82WrE4
+Statista Research Department (2021) Distribution of road accidents involving vehicles in Metro Manila in the Philippines in 2020, by vehicle type
+https://www.statista.com/statistics/1276528/philippines-road-accidents-share-metro-manila-by-vehicle-type/?fbclid=IwAR3gE1K8WiwS0nlOIoEdJM0U2IzPMIpmRtzxejeVut_PN4nFPtQvRrYfYDg

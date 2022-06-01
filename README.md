@@ -7,6 +7,11 @@
   This project is conducted to give and provide information using data analysis that can help to produce an effective plan to determine the factors that affect road  traffic accidents in Region 4-A CALABARZON.
 ## Problem Statement
  Road accidents are the most dreaded thing that can happen to a driver, despite the fact that they occur frequently. The majority of road users are aware of the general guidelines and safety precautions to take while on the road, but it is the road users' own negligence that causes accidents and wrecks. Human mistake is the leading cause of accidents and crashes. Despite of having rules and regulations on the roads, without the driver’s proper coordination and participation  it seems imposible to lessen the fatalities. This paper aims to instigate everyone about road safety awareness through identifying the different risk that causes road accidents in region 4-A CALABARZON.
+## Objectives:
+1.	Acquire the statistics of accidents in CALABARZON and determine the main cause of these accidents.
+2.	Determine which type of vehicle is most involved in road accidents.
+3.	Determine where and why current risk control measures constantly fail.
+4.	Identify which risk control measures need to be improved or what additional measures are necessary to prevent further incidents.
 ## Significance of the Proposed Project
 It is important for drivers and motorheads to know how dangerous it is to be on the road and how many road accidents occur on a daily basis. This can help them be more cautious on the road, and at the same time, make them more compassionate and thoughtful with their fellow drivers. Thus, the researchers firmly believe that the development of this research is deemed significant and will be beneficial for drivers/motorists and for traffic officers or traffic police. This will enable everyone to have a safer and more efficient way of driving and traveling.
 This research will help the Department of Transportation and Department of Public Works and Highways in assessing and regulating road accidents and how to further prevent them from occurring. Furthermore, this will also help in assessing the more complicated issues of the road.

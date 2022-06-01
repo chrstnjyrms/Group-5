@@ -27,7 +27,7 @@ The SDGs that this project aims to achieve are Sustainable Cities and Communitie
 Sustainable Cities and Communities are in line with the proposal project which is the Risk Factors that Causes Road Accidents in Region 4A- CALABARZON. Road Safety Management for Local Government Units are advocating for a localized approached in the implementation of road safety programs to prevent and lessen the incidence of road crashes, road injuries, accidents and even deaths since most of these occur in city, municipal and provincial roads.
 ## Reliability of Organizations Where Data sets Originated
 The proponents utlilized ONEISS or Online National Electronic Injury Surveillance System of the Regional Offices under Department of Health (DOH) which is a web-based system that electronically store and collect injury related data. Also, the researchers use the data released by PNP Regional Investigation and Detective Management Division of CALABARZON which shows credibility and reliability of data sets gathered.
-<p align="center"> <img src="Downloads\Road Accidents - Infographic.pdf" width="400" height="400"> </p>
+<p align="center"> <img src="C:\Users\Lenovo\Downloads\Road Accidents - Infographic\Road Accidents - Infographic-1.png" width="400" height="400"> </p>
 ## References
 Kim, C. (2021) Car Accidents in The Philippines: Causes, Facts & Latest Statistics 
 https://philkotse.com/safe-driving/road-accidents-in-the-philippines-causes-facts-latest-statistics-5455

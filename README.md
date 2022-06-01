@@ -29,7 +29,7 @@ Sustainable Cities and Communities are in line with the proposal project which i
 ## Reliability of Organizations Where Data sets Originated
 The proponents utlilized ONEISS or Online National Electronic Injury Surveillance System of the Regional Offices under Department of Health (DOH) which is a web-based system that electronically store and collect injury related data. Also, the researchers use the data released by PNP Regional Investigation and Detective Management Division of CALABARZON which shows credibility and reliability of data sets gathered.
 
-<p align="center"> <img src="Downloads\INFOGRAPHIC.png" width="400" height="400"> </p>
+<p align="center"> <img src="Sample Images\INFOGRAPHIC.png" width="700" height="1000"> </p>
 
 ## References
 

@@ -1,5 +1,17 @@
 # Risk Factors that Causes Road Accidents in Region 4A- CALABARZON
 ---
+**TEAM END GAME** - ITBA 3207
+
+*Castillo, Clariz Mae M.*
+
+*Mabini, Carl Yousef A.*
+
+*Ramos, Christian Jay G.*
+
+*Sandhu, Hardeep G.*
+
+---
+
 ## Abstract
   Road accidents is commonly caused by collision of vehicles, in pedestrians, all object that result to fatality, disability, and damage to property. Road accidents also caused by driver’s error, mechanical defect, over speeding, drinking before driving, and damage roads. This study will discuss and analyze about risk that caused accidents in CALABARZON Philippines. Driver's age is also a predictor of road accident criticality. It suggests that older drivers are more likely to be involved in critical road accidents than younger drivers. The criticality of road traffic accidents is also dependent on the congestion of the road. The highly congested road tends to limit the driving speed, which reduces the fatality of accidents. From these results, it is highly suggested to impose stricter traffic laws on vehicles that have a larger size. Also, this study recommends the renewal of a driver’s license since age has a strong positive correlation with the criticality of traffic accidents. This research will help the Department of Transportation and Department of Public Works and Highways in assessing and regulating road accidents and how to further prevent them from occurring. Furthermore, this will also help in assessing the more complicated issues of the road. This study can also serve as reference for future researchers. The findings of this study can be utilized and could enable the researchers to further develop and contribute more studies and analysis to this research.
 ## Introduction

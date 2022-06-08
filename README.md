@@ -33,6 +33,10 @@ The proponents utlilized ONEISS or Online National Electronic Injury Surveillanc
 
 ## References
 
+Abay. (2015). Investigating the nature and impact of reporting bias in road crash data. Transportation
+Research Part A: Policy and Practice, 71, 31–45. doi: 10.1016/j.tra.2014.11.002
+Adanu, Hainen, & Jones, S. (2018). Latent class analysis of factors that influence weekday and weekend
+single-vehicle crash severities. Accident Analysis & Prevention, 113, 187–192. doi: 10.1016/j.aap.2018.01.035
 Kim, C. (2021) Car Accidents in The Philippines: Causes, Facts & Latest Statistics 
 https://philkotse.com/safe-driving/road-accidents-in-the-philippines-causes-facts-latest-statistics-5455
 Tamayo, A. M. (2009) Occurrence of Traffic Accidents in the Philippines: An Application of Poisson Regression Analysis 

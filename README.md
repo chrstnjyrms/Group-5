@@ -20,6 +20,8 @@
 ## Problem Statement
 Road accidents are the most terrifying thing that can happen to a driver. The majority of road users are aware of broad principles and safety procedures to take while on the road, yet accidents and crashes are caused by the road users' own irresponsibility. Accidents and wrecks are frequently caused by human error. Despite the existence of rules and regulations on the roads, it appears that reducing fatalities is impossible without the correct coordination and participation of the drivers. This paper intends to raise public awareness about road safety by highlighting the various risks that contribute to vehicle accidents in Region 4-A CALABARZON.
 ## Objectives:
+The main objective of this study is to analyze the data related to the different factors that causes road accidents in Region 4-A CALABARZON.
+Specifically, it aims to know the following:
 1.	Acquire the statistics of accidents in CALABARZON and determine the main cause of these accidents.
 2.	Determine which type of vehicle is most involved in road accidents.
 3.	Determine where and why current risk control measures constantly fail.
